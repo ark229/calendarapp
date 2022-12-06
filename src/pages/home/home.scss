@@ -20,19 +20,19 @@ page-home {
   }
   .currentDate {
     font-weight: bold;
-    background-color: red;
+    background-color: purple;
     color: white;
     border-radius: 30px;
   }
   .calendar-header {
-    background-color: #1a732d;
+    background-color: gray;
     color: #FFFFFF;
   }
   .event-bullet {
     margin: 2px auto;
     height: 5px;
     width: 5px;
-    background-color: green;
+    background-color: red;
     border-radius: 30px;
   }
   .selected-date {
@@ -57,7 +57,7 @@ page-home {
     .calendar-weekday {
       font-weight: bold;
       border-bottom: solid 1px #1a732d;
-      background-color: #26ab56;
+      background-color: violet;
     }
     .calendar-date {
       border-top: solid 1px #1a732d;
